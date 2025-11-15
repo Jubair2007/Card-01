@@ -1,0 +1,75 @@
+body {
+    background: rgb(224, 223, 223);
+}
+
+.flex {
+    display: flex;
+}
+
+.pd {
+    align-items: center;
+    gap: 5px;
+}
+.mmm{
+    align-items: center;
+    justify-content: space-between;
+}
+.pdd {
+    align-items: center;
+    gap: 08px;
+    line-height: 03px;
+}
+
+.btn {
+    border: none;
+    background: rgb(208, 207, 207);
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+
+.color {
+    color: #555;
+}
+
+.gap {
+    gap: 20px;
+}
+
+.line {
+    line-height: 6px;
+}
+
+.btn-01 {
+    color: white;
+    background: black;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 5px;
+}
+
+.pd-btn {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dada {
+    margin-left: 450px;
+    margin-right: 450px;
+    background: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    padding-top: 20px;
+}
+.img-01{
+    border-radius: 50px;
+}
+.title{
+    font-size: 22px;
+    font-weight: 800;
+}
+span{
+    font-size: 15px;
+    font-weight: 300;
+    
+}
